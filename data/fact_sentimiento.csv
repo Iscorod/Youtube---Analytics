@@ -1,0 +1,16 @@
+﻿channel_id,sentimiento,n,tema
+UC_TECHNORTE_DEMO,Positivo,680,precio
+UC_TECHNORTE_DEMO,Positivo,680,batería
+UC_TECHNORTE_DEMO,Positivo,680,cámara
+UC_TECHNORTE_DEMO,Positivo,680,garantía
+UC_TECHNORTE_DEMO,Positivo,680,comparativa
+UC_TECHNORTE_DEMO,Neutro,220,precio
+UC_TECHNORTE_DEMO,Neutro,220,batería
+UC_TECHNORTE_DEMO,Neutro,220,cámara
+UC_TECHNORTE_DEMO,Neutro,220,garantía
+UC_TECHNORTE_DEMO,Neutro,220,comparativa
+UC_TECHNORTE_DEMO,Negativo,100,precio
+UC_TECHNORTE_DEMO,Negativo,100,batería
+UC_TECHNORTE_DEMO,Negativo,100,cámara
+UC_TECHNORTE_DEMO,Negativo,100,garantía
+UC_TECHNORTE_DEMO,Negativo,100,comparativa
